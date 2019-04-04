@@ -1,0 +1,24 @@
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.dll
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.pdb
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csprojAssemblyReference.cache
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csproj.CoreCompileInputs.cache
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.dll
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.pdb
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP_CokIyi\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.dll
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP_CokIyi\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.pdb
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP_CokIyi\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csprojAssemblyReference.cache
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP_CokIyi\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csproj.CoreCompileInputs.cache
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP_CokIyi\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.dll
+D:\Ayvansaray Universitesi\Ayvansaray-Uni-Projects-master\Ayvansaray-Uni-Projects-master\Grup Çalışmaları\OOP_Projects-1\Grup2_OOP_CokIyi\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.pdb
+C:\Users\gunis\Desktop\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.dll
+C:\Users\gunis\Desktop\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.pdb
+C:\Users\gunis\Desktop\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csprojAssemblyReference.cache
+C:\Users\gunis\Desktop\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csproj.CoreCompileInputs.cache
+C:\Users\gunis\Desktop\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.dll
+C:\Users\gunis\Desktop\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.pdb
+C:\Users\gunis\Desktop\github\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.dll
+C:\Users\gunis\Desktop\github\SahteVeriUygulama\SahteVeri\bin\Debug\SahteVeri.pdb
+C:\Users\gunis\Desktop\github\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csprojAssemblyReference.cache
+C:\Users\gunis\Desktop\github\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.csproj.CoreCompileInputs.cache
+C:\Users\gunis\Desktop\github\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.dll
+C:\Users\gunis\Desktop\github\SahteVeriUygulama\SahteVeri\obj\Debug\SahteVeri.pdb
